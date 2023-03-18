@@ -25,11 +25,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop.jpg)
-![](./screenshots/desktop-modal.jpg)
-![](./screenshots/desktop-completed.jpg)
 ![](./screenshots/mobile.jpg)
-![](./screenshots//mobile-modal.jpg)
-![](./screenshots/mobile-completed.jpg)
+![](./screenshots/tablet.jpg)
+![](./screenshots/active.jpg)
 
 ## My process
 
